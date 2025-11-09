@@ -2,13 +2,13 @@
 
 **Effective Date: November 2025**
 
-This policy explains how the **Close New Duplicate Tabs** Firefox WebExtension handles user data.
+This policy explains how the **Close New Duplicate Tabs** WebExtension handles user data.
 
 ## 1. Data Collection
 
 ### **This extension does not collect, store, transmit, or share any personal data.**
 
-The **Close New Duplicate Tabs** extension operates entirely locally within your Firefox browser.
+The **Close New Duplicate Tabs** extension operates entirely locally within your browser.
 
 * **No User Data:** The extension does not track your browsing history, usage patterns, IP address, or any other personally identifiable information.
 * **No Telemetry:** The extension does not use any services to send data back to the developer (Sunfur) or any third party.
@@ -16,7 +16,7 @@ The **Close New Duplicate Tabs** extension operates entirely locally within your
 
 ## 2. Data Usage
 
-The extension uses the standard Firefox WebExtensions `tabs` API **only** for the following, localized operations:
+The extension uses the standard WebExtensions `tabs` API **only** for the following, localized operations:
 
 1.  Reading the URL of a newly created tab.
 2.  Querying the URLs of other open tabs to check for a duplicate match.
