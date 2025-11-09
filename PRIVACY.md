@@ -33,4 +33,4 @@ Any future changes to this policy will be clearly communicated by updating this 
 
 If you have any questions regarding this privacy policy, please open an issue on the repository:
 
-https://github.com/sonnenfell/firefox-new-duplicate-tab-closer/issues
+https://github.com/sonnenfell/chromium-new-duplicate-tab-closer/issues
