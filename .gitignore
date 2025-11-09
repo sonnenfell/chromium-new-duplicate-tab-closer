@@ -1,0 +1,7 @@
+# Ignore packaged XPI files
+*.xpi
+# Ignore temporary zip files
+*.zip
+# Ignore editor/OS specific files
+.DS_Store
+.vscode/
