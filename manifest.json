@@ -5,9 +5,14 @@
   "description": "Closes a newly created tab if tab with the same URL is already open. Does not destroy your old tabs if you accidentally open a duplicate url.",
   "author": "Sunfur",
   "browser_specific_settings": {
-  "gecko": {
-    "id": "close-new-duplicate-tabs@sunfur.com" 
-  }
+    "gecko": {
+      "id": "close-new-duplicate-tabs@sunfur.com", 
+      "data_collection_permissions": {
+        "allow_platform_data_collection": false,
+        "user_controls": false,
+        "policy_url": "https://github.com/sonnenfell/firefox-new-duplicate-tab-closer/blob/main/PRIVACY.md"
+      }
+    }
   },
   "background": {
     "scripts": ["background.js"]
