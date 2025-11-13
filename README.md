@@ -7,4 +7,4 @@ This functionality specifically targets links clicked to open in a new tab (e.g.
 *This extension runs locally and does not collect or store any data. See all deatails on this in in [PRIVACY.md](https://github.com/sonnenfell/firefox-new-duplicate-tab-closer/blob/main/PRIVACY.md)*
 
 # How to install
-Simply head this extensions [Edge extensions page]() and click on "Get". The extension will then be automatically installed.
+Simply head this extensions [Edge extensions page](https://microsoftedge.microsoft.com/addons/detail/close-new-duplicate-tabs/eodgaejgnllljkaeglpclgooobmelhdh) and click on "Get". The extension will then be automatically installed.
